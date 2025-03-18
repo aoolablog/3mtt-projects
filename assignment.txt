@@ -1,0 +1,26 @@
+Create a Timeline Showcasing the Evolution of Cybersecurity
+
+ShieldGuard Inc. Learning Initiative
+
+Long ago, in the early days of interconnected machines, a harmless program called the Creeper Virus traveled across networks, playfully declaring, "I'm the creeper: catch me if you can." While innocent, it became the spark for what we now call cybersecurity. Fast forward decades, and the stakes have grown
+exponentially-viruses, hackers, and breaches have shaped the digital world we live in today. From the birth of firewalls to modern encryption and Al-driven defenses, every milestone tells a story of resilience and innovation.
+
+Understanding these historical milestones in cybersecurity can provide insights into the progression of threats, technologies, and defenses. This project will help you appreciate how the field has evolved and where it is heading.
+
+1. Objective
+
+Your mission is to create a timeline highlighting the key events, technological advancements, and pivotal moments in the evolution of cybersecurity. This timeline will showcase how threats and defenses have developed over time.
+
+2. Timeline Creation Steps
+
+Research the Cybersecurity Events
+
+Use reliable sources to gather details about each milestone, including the date, event, and significance.
+
+Highlight Key Takeaways
+
+For each event, briefly summarize the lesson learned or its impact on cybersecurity practices.
+
+3. Deliverable
+
+Prepare a one-page visual timeline that clearly outlines the evolution of cybersecurity. Ensure the design is easy to understand and highlights the key milestones effectively
